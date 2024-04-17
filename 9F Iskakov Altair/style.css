@@ -1,0 +1,54 @@
+.text{ 
+    color: white; 
+    font-size: 50px; 
+} 
+.text1{ 
+    color: white; 
+    font-size: 40px; 
+} 
+.text123{ 
+    color: white; 
+    font-size: 40px; 
+    text-align: center;
+} 
+.money{ 
+    color: white; 
+    font-size: 100px; 
+    text-align: center;
+} 
+.kaspi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 500px;
+    color: white;
+    border-radius: 100px;
+    padding: 10px;
+}
+.aboutme{ 
+    color: white; 
+    font-size: 100px; 
+    text-align: center;
+} 
+.myprojects{ 
+    color: white; 
+    font-size: 100px;
+    text-align: center; 
+} 
+.medium1{
+    font-size: 50px;
+    color: black;
+}
+.mediumphoto{ 
+    color: white; 
+    font-size: 100px; 
+    text-align: center;
+} 
+.button{
+    background-color: lightblue;
+    cursor: pointer;
+}
+body{ 
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
