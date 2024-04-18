@@ -1,20 +1,25 @@
+
 .text{ 
-    color: white; 
-    font-size: 50px; 
+    color: #FFFFCC;
+    font-size: 30px; 
+    margin-left: 100px;
+    text-align: center;
 } 
 .text1{ 
-    color: white; 
-    font-size: 40px; 
+    color: #FFFFCC; 
+    font-size: 30px; 
+    margin-left: 100px;
 } 
 .text123{ 
-    color: white; 
+    color: #FFFFCC; 
     font-size: 40px; 
     text-align: center;
 } 
 .money{ 
-    color: white; 
+    color: #FFFF99; 
     font-size: 100px; 
     text-align: center;
+    margin-top: 300px;
 } 
 .kaspi{
     display: flex;
@@ -26,14 +31,10 @@
     padding: 10px;
 }
 .aboutme{ 
-    color: white; 
+    color: #FFFF99; 
     font-size: 100px; 
     text-align: center;
-} 
-.myprojects{ 
-    color: white; 
-    font-size: 100px;
-    text-align: center; 
+    margin-top: 300px;
 } 
 .medium1{
     font-size: 50px;
@@ -45,8 +46,11 @@
     text-align: center;
 } 
 .button{
-    background-color: lightblue;
+    background-color: gray;
     cursor: pointer;
+    padding: 15px 30px;
+    border-radius: 30px;
+    border: 0;
 }
 body{ 
     background-color: black;
